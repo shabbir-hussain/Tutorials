@@ -1,0 +1,92 @@
+comp 208 review
+===============
+give marc's email for feedback :marc.chelala@mail.mcgill.ca
+give my email: epts.comp@mcgilleus.ca
+announce : ENGMC 10 on March 11 and March 18th matlab at 5:30pm
+
+create groups
+	give link to spreadsheet: http://goo.gl/atndGY
+take attendance
+	Give links to forms: http://goo.gl/oYQCde
+
+
+motivation
+	tech fair
+	apps
+
+Binary Numbers
+	question 14
+
+types and variable
+	int, char, float
+	box represenation
+	variable = expression |_|
+	int x; what is the value in it?
+
+Precedance expression and type casting7
+	casting int 2/3
+	casting float 2/3
+	mixed expressions float f = x+99.9
+	precedance of operators: 9+4*3/2-6
+	question 6
+	question 13
+	question 17
+
+Control flow
+	http://2.bp.blogspot.com/-qGJjq8TY72g/TzGe1V-F1RI/AAAAAAAAB5I/bEOlcO7yeT8/s1600/Problem-Solving-Flowchart-Funny-Joke%2Byuthink.jpg
+
+	if statements
+	conditional variables 1 or 0
+	operators <, >, <=,>=, &&, ||, 
+	conditional operators what expression should i make if i want x> 13 and <20
+	What expression would i need if I wanted to know if x is a multiple of 3?
+	question 11
+	question 15
+
+loops
+	loop as a control flow
+	question 12
+	for(;;) how to exit?
+	question 16
+
+
+Arrays
+	Arrays are a list of numbers. Great for processing things consistently
+	char word[] = "Comp 202 Midterm";
+	question 7
+	question 8
+
+functions
+	like a mini program. Must define before calling.
+	functions return a value
+	scope
+	question 9
+	question 20	
+	question 22
+
+pointers
+	pointer annalogy
+	whats in the box
+	int x = 13
+	int *y = &x
+	whats in the y box?
+	
+	question 10
+	question 18
+	question 19	
+	question 21
+Extras
+	question 24
+	question 25
+
+Writing programs
+	question 26
+
+Searching
+	show insertion sort on doc
+	show binary search on doc	
+recursion
+	a function that calls itself
+	requires a stopping condition
+	requires values to be heading towards termination
+	question 27
